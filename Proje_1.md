@@ -17,7 +17,7 @@
 1. [2,3,5,8,7,9,4,15,6] (7 ile devamındaki en küçük değerin (2) yeri değiştirilir) <br>
 2. [2,3,5,8,7,9,4,15,6] (3'den itibaren daha küçük bir sayı bulunmadığından dolayı hiç bir işlem gerçekleştirilmez) <br>
 3. [2,3,4,8,7,9,5,15,6] (5 ile devamındaki en küçük değerin (4) yeri değiştirilir) <br>
-4. [2,3,4,5,7,9,8,15,6] (8 ile devamındaki en küçük değerin (5) yeri değiştirilir) <br><br>
+4. [2,3,4,5,7,9,8,15,6] (8 ile devamındaki en küçük değerin (5) yeri değiştirilir) <br>
 >> 4. adımında ardından dizi elemanları bu şekilde sıralanır -> [2,3,4,5,7,9,8,15,6]
 
 
