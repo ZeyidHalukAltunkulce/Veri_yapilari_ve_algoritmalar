@@ -6,4 +6,4 @@
 [2,16,18,22,27,6] (18, 2 hamle ile sola kaydırılarak, 16<18 olduğu için sola kaydırma işlemi sona erdirilir) <br>
 [2,6,16,18,22,27] (bir önceki gibi 6'da öncekilerden küçük olmayacak konuma gelene kadar sola kaydırılır) <br>
 ```
-> Insertion Sort Worstcase: Big O(n²)
+>> Insertion Sort Worstcase: Big O(n²)
